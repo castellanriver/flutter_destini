@@ -1,10 +1,9 @@
-# untitled
-
-A new Flutter project.
+# flutter_destini
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Practice flutter project from
+Angela yu's flutter bootcamp at udemy.
 
 A few resources to get you started if this is your first Flutter project:
 
